@@ -98,4 +98,4 @@ Supervisor: Dr. Tahsinur Khan
 
 ICAIF’24 Crypto Market Simulation dataset for source data
 
-Tail-GAN (2022) paper for foundational architecture inspiration```
+Tail-GAN (2022) paper for foundational architecture inspiration
