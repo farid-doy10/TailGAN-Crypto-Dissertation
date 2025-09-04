@@ -33,7 +33,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/TailGAN-Crypto-Dissertation.git
+git clone https://github.com/farid-doy10/TailGAN-Crypto-Dissertation.git
 cd TailGAN-Crypto-Dissertation
 Launch Jupyter:
 
