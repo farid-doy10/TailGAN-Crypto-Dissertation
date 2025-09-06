@@ -89,12 +89,10 @@ If you use this code, please cite:
 Risk-Aware Synthetic Cryptocurrency Return Generation using Tail-GAN and Conditional GAN (2025), University of Sheffield.
 
 ## 🙏 Acknowledgments
-Supervisor: Dr. Tahsinur Khan
 
 ICAIF’24 Crypto Market Simulation dataset for source data
 
 Tail-GAN (2022) paper for foundational architecture inspiration
-Supervisor: Dr. Tahsinur Khan
 
 ICAIF’24 Crypto Market Simulation dataset for source data
 
